@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 Connect me on 
+<br><br>
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ravkeerat-singh-47a472147/)
-[<img src="https://img.shields.io/github/followers/Ravkeerat02?label=follow&style=social" height="22" />](https://github.com/Ravkeerat02) 
+[<img src="https://img.shields.io/github/followers/Ravkeerat02?label=follow&style=social"/>](https://github.com/Ravkeerat02) 
 
