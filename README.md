@@ -9,7 +9,7 @@
   <h3>Connect with me:</h3>
   <p>
     <a href="https://www.linkedin.com/in/ravkeerat-singh-47a472147/" target="_blank" rel="noopener noreferrer">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40">
+      <img src="https://raw.githubusercontent.com/ravkeerat02/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40">
     </a>
   </p>
 
